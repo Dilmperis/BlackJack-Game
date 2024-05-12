@@ -2,7 +2,9 @@
 
 ![image](https://github.com/Dilmperis/BlackJack-Game/assets/104980103/63a5eff5-4add-440b-bcae-feac1c39b01e)
 
-### An implementation of the BlackJack-Game with the following rules:
+### An implementation of the BlackJack-Game broken down in 3 files, the main file, the game file (actual game implementation) and the player file.
+
+### The game has the following rules:
 
 1) Objective: Beat the dealer's hand without going over 21.
 
